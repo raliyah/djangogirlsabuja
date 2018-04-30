@@ -25,7 +25,7 @@ SECRET_KEY = 't7$q)h%5lsr=fhn$07)0r)@y^9n5^w&r*7#9-^$uy$+a1ic0f_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','raliyah.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','Raliyah.pythonanywhere.com']
 
 
 # Application definition
